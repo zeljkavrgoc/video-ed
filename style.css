@@ -1,0 +1,41 @@
+.edward{
+    background-color:#c7874f;
+    text-align: center;
+}
+.karijera{
+ background-color: #c7874f;
+ text-align: center;
+}
+.naslov{
+    text-align: center;
+    font-family:Monotype Corsiva;
+
+}
+.one{
+;    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30%;
+}
+.naslov2{
+    text-align: center;
+    font-family:Monotype Corsiva ;
+
+}
+p{
+    font-family: Lucida Calligraphy;
+}
+.pjesma{
+    text-align: center; 
+}
+.video{
+    
+        text-align: center;   
+         display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center; 
+    
+        
+    
+}
